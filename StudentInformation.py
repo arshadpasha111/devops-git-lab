@@ -7,7 +7,7 @@ def main():
     roll_number = "909414261"
     college_name = "Hindi College Moradabad"
     admission_year = 2009
-    passing_year = 2012
+    passing_year = 2013
     division = "1st Division"
     percentage = "75%"
 
