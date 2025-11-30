@@ -16,9 +16,9 @@ def main():
     print("Roll Number    :", roll_number)
     print("College Name   :", college_name)
     print("Admission Year :", admission_year)
-    print("Passing Year   :", Passing_year)
-    print("Division       :", Division)
-    print("Percentage     :", Percentage)
+    print("Passing Year   :", passing_year)
+    print("Division       :", division)
+    print("Percentage     :", percentage)
 
 if __name__ == "__main__":
     main()
