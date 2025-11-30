@@ -3,7 +3,7 @@
 # Script: Student Information
 
 def main():
-    student_name = "Ram Kumar P"
+    student_name = "Ram Kumar Pw"
     roll_number = "909414261"
     college_name = "Hindi College Moradabad"
     admission_year = 2009
